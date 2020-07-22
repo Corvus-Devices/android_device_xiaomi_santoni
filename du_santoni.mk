@@ -26,9 +26,6 @@ PRODUCT_NAME := du_santoni
 BOARD_VENDOR := Xiaomi
 PRODUCT_MANUFACTURER := Xiaomi
 
-# Inherit build type
-DU_BUILD_TYPE := OFFICIAL
-
 # Boot animation
 TARGET_BOOT_ANIMATION_RES := 720
 
