@@ -1,0 +1,20 @@
+[
+ {
+   "repository": "zhantech/android_kernel_xiaomi_santoni_msm4.9",
+   "target_path": "kernel/xiaomi/msm8937",
+   "branch": "treble"
+   "remote": "github"
+ },
+ {
+   "repository": "kdrag0n/proton-clang",
+   "target_path": "prebuilts/clang/host/linux-x86/clang-proton",
+   "branch": "master"
+   "remote": "github"
+ },
+ {
+   "repository": "Corvus-Devices/vendor_xiaomi_santoni",
+   "target_path": "vendor/xiaomi",
+   "branch": "ten",
+   "remote": "github"
+ }
+]
